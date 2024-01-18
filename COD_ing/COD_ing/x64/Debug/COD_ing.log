@@ -1,0 +1,4 @@
+﻿  COD_ing.cpp
+D:\Cod_C++\COD_ing_GPT\COD_ing\COD_ing.cpp(52,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LINK : не найден или не выполнена сборка D:\Cod_C++\COD_ing_GPT\x64\Debug\COD_ing.exe при последней инкрементной компоновке; выполняется полная компоновка
+  COD_ing.vcxproj -> D:\Cod_C++\COD_ing_GPT\x64\Debug\COD_ing.exe
